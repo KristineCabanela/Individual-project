@@ -1,5 +1,5 @@
 # Individual-project
-# About the Project
+# Executive Summary
 
 ## Project Goals
 
