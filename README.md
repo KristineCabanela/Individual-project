@@ -42,7 +42,7 @@ In this project, we will utilize the information in The World Happiness Report, 
 
 ## Steps to Reproduce
 
-- Create an env.py file that contains the hostname, username and password of the mySQL database that contains the zillow table. Store that env file locally in the repository.
+- Acquire dataset through CSV
 - Clone my repo (including an acquire.py and prepare.py) (confirm .gitignore is hiding your env.py file)
 - Libraries used are pandas, matplotlib, seaborn, numpy, sklearn.
 - Document conclusions, takeaways, and next steps in the Final Report Notebook.
